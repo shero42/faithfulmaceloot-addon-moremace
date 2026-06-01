@@ -1,9 +1,42 @@
-This is the source code for the Faithful Mace mod! 
+# Faithful Mace – Loot Table Addon
 
-This is a fully combat accurate backport of the mace, its enchants, and the wind charge, and is used for the [PVP Ranked](https://modrinth.com/mod/pvpranked) mod.
+![Mod Logo](https://example.com/your-mod-logo.png)
 
-The mod is available at https://modrinth.com/mod/faithful-mace!
+This addon enhances the Ancient City loot table to properly reward players with the items from the **Faithful Mace** mod.  
+This makes it so that these items can be found naturally without the presence of a Trial Chamber in Minecraft 1.20.1.
 
-Please report bugs either in the issue tracker in this github (which I will see but do not check often), or by opening a ticket / pinging me in the PVP Ranked discord at https://discord.com/invite/gvXYZvBcke!
+This mod **requires the original Faithful Mace mod** to recognize the items:  
+https://modrinth.com/mod/faithful-mace
 
-This mod is available under the MIT license! Check out the LICENSE file to see what that means.
+---
+
+## About
+
+Ancient City loot is expanded with:
+
+- **Mace**
+- **Enchanted Mace**
+- **Wind Charges**
+
+The goal is to make these items naturally obtainable through gameplay without needing the use of commands or even crafting.
+
+---
+
+## loot chances
+
+**Approximate appearance rates:**
+
+- **Wind Charges:** ~80% chance
+- **Mace:** ~15% chance  
+- **Enchanted Mace:** ~5% chance  
+
+---
+
+## Loot Table example
+![Chest Loot](screenshot1.png)
+
+---
+
+### CREDITS
+- Original **Faithful Mace** mod made by **PvPRanked**  
+- Addon created by **aric3435**

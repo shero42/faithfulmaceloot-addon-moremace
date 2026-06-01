@@ -1,0 +1,27 @@
+{
+    "schemaVersion": 1,
+    "id": "faithfulmaceloot",
+    "version": "${version}",
+    "name": "Faithful Mace - Loot Table Addon",
+    "description": "Adds Faithful Mace items to Ancient City loot tables.",
+    "authors": [
+        "aric3435"
+    ],
+    "license": "MIT",
+    "icon": "assets/faithfulmaceloot/icon.png",
+    "environment": "*",
+
+    "entrypoints": {
+        "main": [
+            "com.aric3435.faithfulmaceloot.FaithfulMaceLoot"
+        ]
+    },
+
+    "depends": {
+        "fabricloader": ">=0.19.2",
+        "minecraft": "~1.20.1",
+        "java": ">=17",
+        "fabric-api": "*",
+        "faithfulmace": "*"
+    }
+}
