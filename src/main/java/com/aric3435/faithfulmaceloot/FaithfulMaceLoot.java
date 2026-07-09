@@ -24,16 +24,16 @@ public class FaithfulMaceLoot implements ModInitializer {
                     .rolls(UniformLootNumberProvider.create(1, 2))
 
                     .with(ItemEntry.builder(Registries.ITEM.get(new Identifier("faithfulmace", "mace")))
-                        .weight(3))
+                        .weight(0))
 
                     .with(ItemEntry.builder(Registries.ITEM.get(new Identifier("faithfulmace", "mace")))
-                        .weight(1)
+                        .weight(3)
                         .apply(EnchantWithLevelsLootFunction.builder(
                             UniformLootNumberProvider.create(20, 40)
                         )))
 
                     .with(ItemEntry.builder(Registries.ITEM.get(new Identifier("faithfulmace", "wind_charge")))
-                        .weight(20)
+                        .weight(17)
                         .apply(SetCountLootFunction.builder(
                             UniformLootNumberProvider.create(2, 8)
                         )));
