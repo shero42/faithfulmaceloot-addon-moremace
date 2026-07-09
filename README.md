@@ -26,9 +26,8 @@ The goal is to make these items naturally obtainable through gameplay without ne
 
 **Approximate appearance rates:**
 
-- **Wind Charges:** ~80% chance
-- **Mace:** ~15% chance  
-- **Enchanted Mace:** ~5% chance  
+- **Wind Charges:** 85% chance
+- **Enchanted Mace:** 15% chance  
 
 ---
 
